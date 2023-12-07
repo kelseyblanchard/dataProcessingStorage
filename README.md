@@ -12,5 +12,6 @@ Setup instructions:
 
 Tips to make an official assignment:
 
-1. Instead of raising exceptions, have the students print an error statement to prevent having to comment out and rerun multiple times to check if the errors work. 2. Have a function to print the contents of the working-transaction array and pre-transaction array to ensure all contents are as expected.
+1. Instead of raising exceptions, have the students print an error statement to prevent having to comment out and rerun multiple times to check if the errors work.
+2. Have a function to print the contents of the working-transaction array and pre-transaction array to ensure all contents are as expected.
 3. Have a choice of 3 languages to use (Python, Java, C++) for the graders to predict how to run the code better.
